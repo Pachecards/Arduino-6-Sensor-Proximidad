@@ -13,4 +13,4 @@ Enfocar los sensores también fue un poco más complicado de lo habitual, ya que
 
 <img src="https://raw.githubusercontent.com/Pachecards/Arduino-6-Sensor-Proximidad/master/Sensor%20de%20Proximidad%20Prototipo.png" height = 350 weight = 350 padding = 2px>
 
-Para el prototipo final, volvimos a usar <a href="https://www.tinkercad.com/">Tinkerkad</a>  y ,al pasarlo a físico, funciona sin mayor problema; usamos nuestras manos como prueba. El último video podéis verlo a continuación.
+Para el prototipo final, volvimos a usar <a href="https://www.tinkercad.com/">Tinkerkad</a>  y ,al pasarlo a físico, funciona sin mayor problema; usamos nuestras manos como prueba. El último video podéis verlo <a href="https://github.com/Pachecards/Arduino-6-Sensor-Proximidad/blob/master/ArduinoUnoEx6.mp4">a continuación</a>.
